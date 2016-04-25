@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\User Data\Nolan Apps\MyProject\RSSDemo-master\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="612846c9857077a039b533718f72db3bc041d389">
+        <dex dex="C:\User Data\Nolan Apps\MyProject\RSSDemo-master\build\intermediates\pre-dexed\debug\android-support-v4-f69d4cdd600c8064b98a1867821b35447f1d147e.jar" />
+    </item>
+    <item
+        jar="C:\User Data\Nolan Apps\MyProject\RSSDemo-master\libs\commons-validator-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="42fa1046955ade59f5354a1876cfc523cea33815">
+        <dex dex="C:\User Data\Nolan Apps\MyProject\RSSDemo-master\build\intermediates\pre-dexed\debug\commons-validator-1.4.0-b007bfd84824d2b0334749704cd66b7accc726e5.jar" />
+    </item>
+
+</items>

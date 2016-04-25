@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/User%20Data/Nolan%20Apps/MyProject/RSSDemo-master/res/values-v11/styles.xml -->
+    <eat-comment/>
+    <style name="AlertBox" parent="android:Theme.Holo"/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar"/>
+</resources>
