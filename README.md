@@ -16,3 +16,6 @@ This code is protected via the default GitHub copyright license such that:
 However, I am hereby granting access to reuse this code for both private and public use, although only if sufficient credit is given alongside any published works. Any reuse without explicit credit shall be considered copyright.
 
 Feel free to contact me if you need any help furthering/understanding the code.
+
+----------------
+The reader works well using a singular RSS Feed, but the usefulness comes in using an aggregator to combine multiple feeds into one mega-feed. Using the aggregator found at http://www.rssmix.com/ simply copy and paste the urls of the desired RSS Feeds and click combine, this will give a new link that can be inputed into the reader.
